@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gtrofimov from Parasoft
+- 👋 Hi, I’m @gtrofimov @Parasoft
 - 👀 I’m interested in Application Quality and Agile Delivery
 - 🌱 I’m currently learning how to leverage various technologies for efficient and scalable application quality
 - 💞️ I’m looking to collaborate on sample projects
