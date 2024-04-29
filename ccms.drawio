@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T18:16:59.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BIuQijifllp3cXh87-hQ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T18:17:36.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UAmy-zSbf4QuMgGjGEhc" version="24.2.5" type="github">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
     <mxGraphModel dx="1338" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-32" value="Publish test results with code coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="490" width="110" height="30" as="geometry" />
+          <mxGeometry x="810" y="480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-1" value="Build Binaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="60" height="30" as="geometry" />
