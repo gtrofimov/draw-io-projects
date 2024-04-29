@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T18:17:28.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qEHAXBVv0wWJMQFB6GNc" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T18:25:09.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zhalM04XOQ64Lv3-LMhR" version="24.2.5" type="github">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
-    <mxGraphModel dx="2067" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2917" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SOAtestCLI Code Coverage Workflow - Java&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XXSJzaLtHjIeE2IKimHV-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
