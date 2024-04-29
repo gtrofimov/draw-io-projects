@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T18:06:18.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="G66m1WT_tYt98jjNTRQU" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T18:08:01.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HkbWxX7xaHEON78Au6Zm" version="24.2.5" type="github">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
     <mxGraphModel dx="1624" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-12" value="&lt;div&gt;jtestcli&lt;/div&gt;&lt;div&gt;jtestcov.properties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cpO8tw7uXI1eepPEYQoP-4" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,8 +75,8 @@
         <mxCell id="XXSJzaLtHjIeE2IKimHV-1" value="Build Binaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXSJzaLtHjIeE2IKimHV-2" value="Scan&lt;div&gt;Binaries&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="XXSJzaLtHjIeE2IKimHV-2" value="Scan&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;sources and run unit tests&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-3" value="Publish static coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="490" width="60" height="30" as="geometry" />
@@ -90,7 +90,7 @@
         <mxCell id="XXSJzaLtHjIeE2IKimHV-9" value="Expose Code Cov agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SOAtestCLI Code Coverage Workflow - Java&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices Code Coverage Workflow - Jtest&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cpO8tw7uXI1eepPEYQoP-3" value="Build Images" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
