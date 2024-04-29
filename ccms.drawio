@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T17:47:18.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ITcjMo3z0S4l6ZDjuzY8" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T18:00:48.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IVRPSn-OypwSb7M94R9W" version="24.2.5" type="github">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
     <mxGraphModel dx="1137" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,18 +7,13 @@
         <mxCell id="35xceseinkIuoweITH5B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-1" target="35xceseinkIuoweITH5B-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="35xceseinkIuoweITH5B-1" target="35xceseinkIuoweITH5B-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-1" value="bin1.ear&lt;div&gt;bin2.tar&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="35xceseinkIuoweITH5B-2" target="35xceseinkIuoweITH5B-1" edge="1">
+        <mxCell id="cpO8tw7uXI1eepPEYQoP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35xceseinkIuoweITH5B-2" target="35xceseinkIuoweITH5B-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-2" value="mvn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="35xceseinkIuoweITH5B-2" value="mvn/gradle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-3" value="Build" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -28,19 +23,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-4" value="Docker Image&lt;div&gt;+&lt;br&gt;Openshift&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-5" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-5" value="soatestcli&lt;div&gt;tests.tst&lt;br&gt;&lt;div&gt;soatest.properties&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-7" value="Deploy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="590" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-8" value="Test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="830" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-12" target="35xceseinkIuoweITH5B-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,33 +44,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-12" value="jtestcov.jar&lt;div&gt;jtestcov.properties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="cpO8tw7uXI1eepPEYQoP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35xceseinkIuoweITH5B-2" target="35xceseinkIuoweITH5B-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35xceseinkIuoweITH5B-12" value="&lt;div&gt;jtestcli&lt;/div&gt;&lt;div&gt;jtestcov.properties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-16" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-16" value="-javaagent:&lt;div&gt;agent.jar&lt;div&gt;agent.properties&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-21" target="35xceseinkIuoweITH5B-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="480" />
+              <mxPoint x="860" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-21" value="http://agent.url:8050" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-23" value="Parasoft DTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-32" value="Publish test results with code coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="490" width="110" height="30" as="geometry" />
+          <mxGeometry x="720" y="490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-1" value="Build Binaries" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-2" value="Scan&lt;div&gt;Binaries&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="60" height="30" as="geometry" />
@@ -83,20 +81,20 @@
         <mxCell id="XXSJzaLtHjIeE2IKimHV-3" value="Publish static coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXSJzaLtHjIeE2IKimHV-4" value="Build Images" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-5" value="Deploy with cov agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="240" width="105" height="30" as="geometry" />
+          <mxGeometry x="620" y="240" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-8" value="Configure SOAtestCLI for code coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="250" width="105" height="30" as="geometry" />
+          <mxGeometry x="860" y="250" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-9" value="Expose Code Cov agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="320" width="80" height="30" as="geometry" />
+          <mxGeometry x="700" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SOAtestCLI Code Coverage Workflow - Java&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cpO8tw7uXI1eepPEYQoP-3" value="Build Images" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
