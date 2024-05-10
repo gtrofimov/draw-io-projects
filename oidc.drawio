@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T19:42:33.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="icvkOhkdeUySUBb20ZR0" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T19:49:11.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o1h2rGfGEf1nPG9h3FCJ" version="24.3.1" type="github">
   <diagram name="Page-1" id="zfWgrGRvzGyUHNK5W11o">
-    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <Array as="points">
               <mxPoint x="420" y="430" />
               <mxPoint x="300" y="430" />
-              <mxPoint x="300" y="322" />
+              <mxPoint x="300" y="321" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,7 +41,7 @@
         <mxCell id="5ql7LLEaY8ut6cnvN6Mg-9" value="SOAVirt&lt;div&gt;oidc.properties&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="581" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5ql7LLEaY8ut6cnvN6Mg-10" value="OIDC Provider&lt;div&gt;clientId&lt;/div&gt;&lt;div&gt;client secret&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5ql7LLEaY8ut6cnvN6Mg-10" value="OIDC Provider&lt;div&gt;issueUri&lt;br&gt;&lt;div&gt;clientId&lt;/div&gt;&lt;div&gt;client secret&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sDlZ1h2PksgqAk2rioa3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="5ql7LLEaY8ut6cnvN6Mg-13" target="5ql7LLEaY8ut6cnvN6Mg-7">
@@ -76,8 +76,8 @@
         <mxCell id="5ql7LLEaY8ut6cnvN6Mg-4" value="License Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.93" y="360" width="121.07" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5ql7LLEaY8ut6cnvN6Mg-5" value="PSTsec" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="358.93" y="299" width="121.07" height="30" as="geometry" />
+        <mxCell id="5ql7LLEaY8ut6cnvN6Mg-5" value="PSTsec&lt;div&gt;oidc.json&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.93" y="290" width="121.07" height="41" as="geometry" />
         </mxCell>
         <mxCell id="sDlZ1h2PksgqAk2rioa3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="5ql7LLEaY8ut6cnvN6Mg-13" target="5ql7LLEaY8ut6cnvN6Mg-9">
           <mxGeometry relative="1" as="geometry" />
