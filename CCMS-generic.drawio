@@ -7,7 +7,7 @@
         <mxCell id="35xceseinkIuoweITH5B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-1" target="35xceseinkIuoweITH5B-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35xceseinkIuoweITH5B-1" target="35xceseinkIuoweITH5B-12">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-1" target="35xceseinkIuoweITH5B-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="370" />
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35xceseinkIuoweITH5B-4" target="c8YGAaLrMJaknSb1OKQ_-3">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="35xceseinkIuoweITH5B-4" target="c8YGAaLrMJaknSb1OKQ_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-4" value="Deploy application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35xceseinkIuoweITH5B-5" target="c8YGAaLrMJaknSb1OKQ_-7">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-5" target="c8YGAaLrMJaknSb1OKQ_-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="239.9999999999999" as="targetPoint" />
           </mxGeometry>
@@ -97,7 +97,7 @@
         <mxCell id="35xceseinkIuoweITH5B-21" value="&lt;div&gt;Parasoft CTP&amp;nbsp;&lt;/div&gt;&lt;div&gt;REST API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="930" y="431" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35xceseinkIuoweITH5B-23" target="c8YGAaLrMJaknSb1OKQ_-14">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-23" target="c8YGAaLrMJaknSb1OKQ_-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-23" value="Parasoft DTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -109,8 +109,8 @@
         <mxCell id="XXSJzaLtHjIeE2IKimHV-3" value="Publish static coverage files to DTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="531" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices Code Coverage Workflow - Jtest&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="530" height="70" as="geometry" />
+        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices Code Coverage Workflow - Jtest&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="375" y="40" width="530" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cpO8tw7uXI1eepPEYQoP-4" value="http://agent1.url&lt;div&gt;http://agent2.url&lt;/div&gt;&lt;div&gt;http://agent3.url&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="421" width="120" height="80" as="geometry" />
@@ -124,13 +124,13 @@
             <mxPoint x="270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-2" value="Step 1&lt;div&gt;Scan sources or binaries to generate static coverage files&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-2" value="Step 1&lt;div&gt;Scan sources or binaries to generate static coverage files&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8YGAaLrMJaknSb1OKQ_-3" target="35xceseinkIuoweITH5B-5">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="c8YGAaLrMJaknSb1OKQ_-3" target="35xceseinkIuoweITH5B-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8YGAaLrMJaknSb1OKQ_-3" target="cpO8tw7uXI1eepPEYQoP-4">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c8YGAaLrMJaknSb1OKQ_-3" target="cpO8tw7uXI1eepPEYQoP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="370" />
@@ -138,10 +138,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-3" value="http://front-end.url&lt;div&gt;http://service1.url&lt;/div&gt;&lt;div&gt;http://service2.url&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-3" value="http://front-end.url&lt;div&gt;http://service1.url&lt;/div&gt;&lt;div&gt;http://service2.url&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c8YGAaLrMJaknSb1OKQ_-7" target="35xceseinkIuoweITH5B-21">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c8YGAaLrMJaknSb1OKQ_-7" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1080" y="370" />
@@ -149,32 +149,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-7" value="Test Results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-7" value="Test Results" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-8" value="Step 2&lt;div&gt;Deploy Parasoft code covreage agents with application&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-8" value="Step 2&lt;div&gt;Deploy Parasoft code covreage agents with application&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-12" value="Step 4&lt;div&gt;Trigger Parasoft CTP APIs at test start/stop&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-12" value="Step 4&lt;div&gt;Trigger Parasoft CTP APIs at test start/stop&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="320" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-14" value="Insert DTP&amp;nbsp;&lt;div&gt;dashboard&lt;div&gt;screenshot&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-14" value="Insert DTP&amp;nbsp;&lt;div&gt;dashboard&lt;div&gt;screenshot&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="641" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-16" value="Step 5 Review results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-16" value="Step 5 Review results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="661" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="290" as="sourcePoint" />
-            <mxPoint x="1290" y="290" as="targetPoint" />
+            <mxPoint x="40" y="300" as="sourcePoint" />
+            <mxPoint x="1195" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-18" value="Standard&lt;div&gt;Workflow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="225" width="60" height="30" as="geometry" />
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-18" value="Standard&lt;div&gt;Workflow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-19" value="Parasoft Code Coverage workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="441" width="60" height="30" as="geometry" />
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-19" value="Parasoft Code Coverage workflow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="436" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
