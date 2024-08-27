@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,9 +97,6 @@
         <mxCell id="35xceseinkIuoweITH5B-21" value="&lt;div&gt;Parasoft CTP&amp;nbsp;&lt;/div&gt;&lt;div&gt;REST API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="930" y="431" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-23" target="c8YGAaLrMJaknSb1OKQ_-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="35xceseinkIuoweITH5B-23" value="Parasoft DTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="551" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,12 +146,6 @@
         </mxCell>
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-12" value="Step 4: Get list of impacted tests for current build Ids" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="320" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-14" value="Insert DTP&amp;nbsp;&lt;div&gt;dashboard&lt;div&gt;screenshot&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="641" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-16" value="Step 5 Review results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="661" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
