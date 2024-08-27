@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="ZYVEoyr4ppTjg7OTafu7">
     <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="180" y="465" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-14" value="Authorization: {ctp_token} - azure ad&lt;div&gt;X-Forwarded-Authorization: {token} - custom script&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="250" width="190" height="90" as="geometry" />
+          <mxGeometry x="730" y="250" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-15" value="Authorization: {token}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="340" width="120" height="90" as="geometry" />
