@@ -47,7 +47,7 @@
         <mxCell id="35xceseinkIuoweITH5B-4" value="Deploy application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="35xceseinkIuoweITH5B-5" target="35xceseinkIuoweITH5B-21" edge="1">
+        <mxCell id="35xceseinkIuoweITH5B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="35xceseinkIuoweITH5B-5" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="370" />
@@ -87,10 +87,10 @@
         <mxCell id="35xceseinkIuoweITH5B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cpO8tw7uXI1eepPEYQoP-4" target="35xceseinkIuoweITH5B-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpO8tw7uXI1eepPEYQoP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="35xceseinkIuoweITH5B-21" target="35xceseinkIuoweITH5B-23" edge="1">
+        <mxCell id="cpO8tw7uXI1eepPEYQoP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="35xceseinkIuoweITH5B-21" target="35xceseinkIuoweITH5B-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="581" />
+              <mxPoint x="990" y="581" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,19 +103,19 @@
         <mxCell id="35xceseinkIuoweITH5B-23" value="Parasoft DTP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="551" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35xceseinkIuoweITH5B-32" value="Publish test results and code coverage to DTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="532" width="110" height="30" as="geometry" />
+        <mxCell id="35xceseinkIuoweITH5B-32" value="Request impacted tests for baseline build" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="775" y="531" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-3" value="Publish static coverage files to DTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="531" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices Code Coverage Workflow - Jtest&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+        <mxCell id="XXSJzaLtHjIeE2IKimHV-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices Code Coverage Workflow - TIA&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="375" y="40" width="530" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cpO8tw7uXI1eepPEYQoP-4" value="http://agent1.url&lt;div&gt;http://agent2.url&lt;/div&gt;&lt;div&gt;http://agent3.url&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="421" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cpO8tw7uXI1eepPEYQoP-6" value="Step 3&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Update CTP Environment with coverage agent URLs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cpO8tw7uXI1eepPEYQoP-6" value="Step 3&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Update CTP Environment with &lt;b&gt;new build IDs&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="411" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sYaimhaodGF1XE3qnYoa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -141,21 +141,13 @@
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-3" value="http://front-end.url&lt;div&gt;http://service1.url&lt;/div&gt;&lt;div&gt;http://service2.url&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c8YGAaLrMJaknSb1OKQ_-7" target="35xceseinkIuoweITH5B-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1080" y="370" />
-              <mxPoint x="990" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-7" value="Test Results" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-8" value="Step 2&lt;div&gt;Deploy Parasoft code covreage agents with application&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c8YGAaLrMJaknSb1OKQ_-12" value="Step 4&lt;div&gt;Trigger Parasoft CTP APIs at test start/stop&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="c8YGAaLrMJaknSb1OKQ_-12" value="Step 4: Get list of impacted tests for current build Ids" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="905" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c8YGAaLrMJaknSb1OKQ_-14" value="Insert DTP&amp;nbsp;&lt;div&gt;dashboard&lt;div&gt;screenshot&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
