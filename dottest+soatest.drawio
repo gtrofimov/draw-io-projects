@@ -94,6 +94,18 @@
         <mxCell id="OMmhInObFo5pcyylUP07-31" value="" style="sketch=0;outlineConnect=0;fillColor=#0000FF;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.opensearch_dashboards;" vertex="1" parent="1">
           <mxGeometry x="820" y="410" width="78" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="OMmhInObFo5pcyylUP07-32" value="Run local scans" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="112.86000000000001" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMmhInObFo5pcyylUP07-33" value="Run tests locally" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="112.85000000000001" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMmhInObFo5pcyylUP07-34" value="Run automated scans" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OMmhInObFo5pcyylUP07-35" value="Run tests in automation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
