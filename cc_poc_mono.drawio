@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T18:25:23.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KQ2wjyZdTEYUIP6NWmY2" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="7t2LEYN8sNlfCKM_Irf8">
-    <mxGraphModel dx="1137" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
           <mxGeometry x="240" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-5" value="Deploy with cov agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="240" width="105" height="30" as="geometry" />
+          <mxGeometry x="425" y="240" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XXSJzaLtHjIeE2IKimHV-8" value="Configure SOAtestCLI for code coverage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="250" width="105" height="30" as="geometry" />
