@@ -166,7 +166,7 @@
         <mxCell id="3Ru9GvfBmVZhPDts_vJh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;strokeWidth=1;" edge="1" parent="1" source="3Ru9GvfBmVZhPDts_vJh-1" target="5ql7LLEaY8ut6cnvN6Mg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Ru9GvfBmVZhPDts_vJh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1" source="3Ru9GvfBmVZhPDts_vJh-1" target="5ql7LLEaY8ut6cnvN6Mg-10">
+        <mxCell id="3Ru9GvfBmVZhPDts_vJh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="3Ru9GvfBmVZhPDts_vJh-1" target="5ql7LLEaY8ut6cnvN6Mg-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Ru9GvfBmVZhPDts_vJh-4" value="Preferences &amp;gt; OIDC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3Ru9GvfBmVZhPDts_vJh-3">
