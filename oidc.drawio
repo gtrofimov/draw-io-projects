@@ -45,7 +45,7 @@
           <mxGeometry x="320" y="581" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5ql7LLEaY8ut6cnvN6Mg-10" value="OIDC Provider&lt;div&gt;issueUri&lt;br&gt;&lt;div&gt;clientId&lt;/div&gt;&lt;div&gt;client secret&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="640" y="285" width="160" height="120" as="geometry" />
+          <mxGeometry x="640" y="280" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sDlZ1h2PksgqAk2rioa3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="5ql7LLEaY8ut6cnvN6Mg-13" target="5ql7LLEaY8ut6cnvN6Mg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
