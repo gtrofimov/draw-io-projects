@@ -150,7 +150,7 @@
             <mxPoint x="499.47" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sDlZ1h2PksgqAk2rioa3-33" value="Parasoft internal auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sDlZ1h2PksgqAk2rioa3-32" vertex="1" connectable="0">
+        <mxCell id="sDlZ1h2PksgqAk2rioa3-33" value="Parasoft internal auth&lt;div&gt;i.e. Basic Auth&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sDlZ1h2PksgqAk2rioa3-32" vertex="1" connectable="0">
           <mxGeometry y="-2" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
