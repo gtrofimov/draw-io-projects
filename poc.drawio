@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-5" value="Apigee" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="440" y="160" width="80" height="400" as="geometry" />
+          <mxGeometry x="460" y="160" width="80" height="400" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-q9D8d0sokJmGObQYAYw-6" target="-q9D8d0sokJmGObQYAYw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="-q9D8d0sokJmGObQYAYw-14" value="Authorization: {ctp_token} via user credentials/azure ad&lt;div&gt;X-Forwarded-Authorization: {app_token} via custom script&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="310" width="350" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-q9D8d0sokJmGObQYAYw-15" value="Authorization: {token}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="340" width="120" height="90" as="geometry" />
+        <mxCell id="-q9D8d0sokJmGObQYAYw-15" value="Authorization: {app_token}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="290" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-q9D8d0sokJmGObQYAYw-16" target="-q9D8d0sokJmGObQYAYw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="-q9D8d0sokJmGObQYAYw-16" value="{app_token} from shell script&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-q9D8d0sokJmGObQYAYw-22" value="gcp token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="-q9D8d0sokJmGObQYAYw-22" value="{gcp_token}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QzWRaI8bpEzNsdZ5pJG8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QzWRaI8bpEzNsdZ5pJG8-1" target="-q9D8d0sokJmGObQYAYw-6">
           <mxGeometry relative="1" as="geometry" />
