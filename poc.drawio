@@ -40,8 +40,8 @@
         <mxCell id="-q9D8d0sokJmGObQYAYw-12" value="cov-agent 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="465" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-q9D8d0sokJmGObQYAYw-14" value="Authorization: {ctp_token} - azure ad&lt;div&gt;X-Forwarded-Authorization: {token} - custom script&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="250" width="350" height="90" as="geometry" />
+        <mxCell id="-q9D8d0sokJmGObQYAYw-14" value="Authorization: {ctp_token} via user credentials/azure ad&lt;div&gt;X-Forwarded-Authorization: {app_token} via custom script&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="310" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-15" value="Authorization: {token}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="340" width="120" height="90" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="-q9D8d0sokJmGObQYAYw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-q9D8d0sokJmGObQYAYw-16" target="-q9D8d0sokJmGObQYAYw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-q9D8d0sokJmGObQYAYw-16" value="{token} from shell script&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-q9D8d0sokJmGObQYAYw-16" value="{app_token} from shell script&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="690" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-q9D8d0sokJmGObQYAYw-22" value="gcp token" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -61,8 +61,8 @@
         <mxCell id="QzWRaI8bpEzNsdZ5pJG8-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user" vertex="1" parent="1">
           <mxGeometry x="695" y="480" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="QzWRaI8bpEzNsdZ5pJG8-3" value="credentials&lt;div&gt;different token&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="420" width="80" height="30" as="geometry" />
+        <mxCell id="QzWRaI8bpEzNsdZ5pJG8-3" value="{ctp_token} via user credentials/azure ad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
