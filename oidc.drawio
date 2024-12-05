@@ -313,6 +313,9 @@
         <mxCell id="i5ahECrliiDfvgsjsJy0-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;CLI tools + Desktop&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="960" width="540" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="F6UMAHc0CZ2AsxDH3K9--1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
