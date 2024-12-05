@@ -316,6 +316,9 @@
         <mxCell id="F6UMAHc0CZ2AsxDH3K9--1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="1310" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F6UMAHc0CZ2AsxDH3K9--2" value="Notes:&lt;div&gt;Basic auth where possible&lt;/div&gt;&lt;div&gt;LSS vs DTP&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1530" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
