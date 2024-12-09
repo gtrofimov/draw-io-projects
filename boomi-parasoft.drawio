@@ -5,7 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rut_06zNnhsL4uaoh5xo-1" value="parabank" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rut_06zNnhsL4uaoh5xo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rut_06zNnhsL4uaoh5xo-3" value="/requestloan" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rut_06zNnhsL4uaoh5xo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rut_06zNnhsL4uaoh5xo-1" target="rut_06zNnhsL4uaoh5xo-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rut_06zNnhsL4uaoh5xo-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="335" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
