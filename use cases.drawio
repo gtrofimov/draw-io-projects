@@ -324,10 +324,10 @@
           <mxGeometry x="15.5" y="28" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-22" value="- verify credit card flows&lt;div&gt;- get credit card info&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="170" height="30" as="geometry" />
+          <mxGeometry x="429.82" y="130" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-23" value="Error pages" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="285" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-24" value="Sucess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="230" width="80" height="30" as="geometry" />
@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-34" value="Group Mobile App" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="860" width="110" height="30" as="geometry" />
+          <mxGeometry x="235" y="860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="610" width="140" height="250" as="geometry" />
@@ -425,13 +425,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-47" value="ISAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="452" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="464.82" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-48" value="Authentication API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="586.7399999999999" y="570.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-49" value="Simulated error conditions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="350" width="130" height="30" as="geometry" />
+          <mxGeometry x="429.82" y="350" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDqxRiYawHEeiHayort9-50" value="stateful session and authentication data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="489.03999999999996" y="860" width="140" height="30" as="geometry" />
