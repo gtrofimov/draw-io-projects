@@ -1,9 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="DzANbFE4RX5hRP-xXk6Z">
-    <mxGraphModel>
+    <mxGraphModel dx="1444" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="270" width="550" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTCpIQ1D3yla1b3mZ7_8-1" target="kTCpIQ1D3yla1b3mZ7_8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-1" value="project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTCpIQ1D3yla1b3mZ7_8-2" target="kTCpIQ1D3yla1b3mZ7_8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-2" value="Parasoft test image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTCpIQ1D3yla1b3mZ7_8-4" target="kTCpIQ1D3yla1b3mZ7_8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-4" value="target board/&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;simulator&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTCpIQ1D3yla1b3mZ7_8-6" target="kTCpIQ1D3yla1b3mZ7_8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-6" value="results listener" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTCpIQ1D3yla1b3mZ7_8-8" target="kTCpIQ1D3yla1b3mZ7_8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kTCpIQ1D3yla1b3mZ7_8-8" value="cpptest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
