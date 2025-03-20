@@ -15,7 +15,7 @@
             <Array as="points">
               <mxPoint x="420" y="480" />
               <mxPoint x="300" y="480" />
-              <mxPoint x="300" y="371" />
+              <mxPoint x="300" y="363" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,8 +52,8 @@
         <mxCell id="e06p3Hk24R48uFPyvANo-24" value="License Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.93" y="410" width="121.07" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e06p3Hk24R48uFPyvANo-25" value="PSTsec&lt;div&gt;oidc.json&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="358.93" y="340" width="121.07" height="41" as="geometry" />
+        <mxCell id="e06p3Hk24R48uFPyvANo-25" value="PSTsec" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="358.93" y="340" width="121.07" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e06p3Hk24R48uFPyvANo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="e06p3Hk24R48uFPyvANo-16" target="e06p3Hk24R48uFPyvANo-34" edge="1">
           <mxGeometry relative="1" as="geometry">
