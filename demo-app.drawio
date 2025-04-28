@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ohPXG8U7VfTKHwn4_iJG-64" value="Data layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="ohPXG8U7VfTKHwn4_iJG-64" value="Data layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="760" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ohPXG8U7VfTKHwn4_iJG-59" value="Application Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=15;" vertex="1" parent="1">
+        <mxCell id="ohPXG8U7VfTKHwn4_iJG-59" value="Application Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="760" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A1Dh8gjikv63k6UlgLe9-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
         <mxCell id="A1Dh8gjikv63k6UlgLe9-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="70" y="161.5" width="740" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ohPXG8U7VfTKHwn4_iJG-58" value="Presentation layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=15;" vertex="1" parent="A1Dh8gjikv63k6UlgLe9-10">
+        <mxCell id="ohPXG8U7VfTKHwn4_iJG-58" value="Presentation layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;spacingRight=14;" vertex="1" parent="A1Dh8gjikv63k6UlgLe9-10">
           <mxGeometry x="-30" y="-121" width="760" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A1Dh8gjikv63k6UlgLe9-8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="A1Dh8gjikv63k6UlgLe9-10" vertex="1">
