@@ -7,6 +7,18 @@
         <mxCell id="A1Dh8gjikv63k6UlgLe9-1" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A1Dh8gjikv63k6UlgLe9-2" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1Dh8gjikv63k6UlgLe9-3" value="Inventory Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1Dh8gjikv63k6UlgLe9-4" value="GraphQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A1Dh8gjikv63k6UlgLe9-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="50" height="35.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
