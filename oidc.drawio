@@ -239,7 +239,7 @@
         <mxCell id="RoFD-TbHpcaxXoeA8XSh-5" value="OIDC Provider&lt;div&gt;issueUri&lt;br&gt;&lt;div&gt;clientId&lt;/div&gt;&lt;div&gt;client secret&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="210" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RoFD-TbHpcaxXoeA8XSh-6" value="user" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="RoFD-TbHpcaxXoeA8XSh-6" value="User" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="100" y="521" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RoFD-TbHpcaxXoeA8XSh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="RoFD-TbHpcaxXoeA8XSh-9" target="RoFD-TbHpcaxXoeA8XSh-14">
@@ -248,7 +248,7 @@
         <mxCell id="RoFD-TbHpcaxXoeA8XSh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="RoFD-TbHpcaxXoeA8XSh-9" target="RoFD-TbHpcaxXoeA8XSh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RoFD-TbHpcaxXoeA8XSh-9" value="admin" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="RoFD-TbHpcaxXoeA8XSh-9" value="Admin" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="100" y="241" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RoFD-TbHpcaxXoeA8XSh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#000000;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="RoFD-TbHpcaxXoeA8XSh-13" target="RoFD-TbHpcaxXoeA8XSh-14">
@@ -281,7 +281,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RoFD-TbHpcaxXoeA8XSh-17" value="automation" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="RoFD-TbHpcaxXoeA8XSh-17" value="Automation" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=user;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="100" y="391" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RoFD-TbHpcaxXoeA8XSh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="RoFD-TbHpcaxXoeA8XSh-20" target="RoFD-TbHpcaxXoeA8XSh-5">
