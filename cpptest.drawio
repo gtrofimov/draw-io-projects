@@ -77,7 +77,7 @@
           <mxGeometry x="270" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KDa5NPIrIVmiXV4jeE_6-38" value="Run scans/code cov in feature branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="145.25" width="87.85" height="30" as="geometry" />
+          <mxGeometry x="600" y="240" width="87.85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KDa5NPIrIVmiXV4jeE_6-39" value="Run scans/code cov locally in dev environment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211.07" y="790" width="87.85" height="30" as="geometry" />
