@@ -93,7 +93,7 @@
             <mxPoint x="179.47000000000003" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxM69ElI0RVyue3mCaA4-29" value="Automation user&amp;nbsp;&lt;div&gt;actions&lt;/div&gt;&lt;div&gt;i.e. REST API&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxM69ElI0RVyue3mCaA4-28">
+        <mxCell id="cxM69ElI0RVyue3mCaA4-29" value="Automation user&amp;nbsp;&lt;div&gt;actions&lt;/div&gt;&lt;div&gt;CLI or REST API&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxM69ElI0RVyue3mCaA4-28">
           <mxGeometry y="-2" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
