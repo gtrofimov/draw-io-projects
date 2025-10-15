@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="OETDO_wT-vaZLfYeogFx">
+    <mxGraphModel dx="1451" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0sxEF5XDNKmsbEsCBIEf-1" target="0sxEF5XDNKmsbEsCBIEf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="282.5" width="49.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="505" y="190" width="60" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="502.6" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0sxEF5XDNKmsbEsCBIEf-5" target="0sxEF5XDNKmsbEsCBIEf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sxEF5XDNKmsbEsCBIEf-5" target="0sxEF5XDNKmsbEsCBIEf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.financial_services;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=light-dark(#4C2248,#66CC00);fillColor3=light-dark(#7D52C2,#B3FF66);fillColor4=#ffffff;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="57.599999999999994" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.financial_services;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="400" width="57.599999999999994" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sxEF5XDNKmsbEsCBIEf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0sxEF5XDNKmsbEsCBIEf-5" target="0sxEF5XDNKmsbEsCBIEf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
