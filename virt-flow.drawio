@@ -53,6 +53,9 @@
         <mxCell id="wPZJitAFg8d9XbPAGVpc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PYPhiLO9cAk49L1P8Eg6-5" target="wPZJitAFg8d9XbPAGVpc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wPZJitAFg8d9XbPAGVpc-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mediaconnect_gateway;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170.92000000000002" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
