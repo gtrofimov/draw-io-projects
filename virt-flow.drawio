@@ -47,6 +47,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wPZJitAFg8d9XbPAGVpc-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="57.349999999999994" y="13.699999999999989" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wPZJitAFg8d9XbPAGVpc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PYPhiLO9cAk49L1P8Eg6-5" target="wPZJitAFg8d9XbPAGVpc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
