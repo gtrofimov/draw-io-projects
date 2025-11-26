@@ -7,7 +7,7 @@
         <mxCell id="jso5cH-NM7xDM9tpQ7Gq-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" value="Simulator, board or target device" vertex="1">
           <mxGeometry height="150" width="640" x="160" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="DX4oQbbJVNqg-3XLbKmo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" value="Host (Development) Environment" vertex="1">
+        <mxCell id="DX4oQbbJVNqg-3XLbKmo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" value="Host / Development Environment" vertex="1">
           <mxGeometry height="440" width="640" x="160" y="160" as="geometry" />
         </mxCell>
         <mxCell id="DX4oQbbJVNqg-3XLbKmo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;" value="" vertex="1">
