@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.1.1" pages="2">
   <diagram name="Server worklfow" id="GOSg-BS_aq9W9KW0pK2x">
-    <mxGraphModel dx="995" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="592" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="nzYVKPdubFMFgoP4xcb2-9" edge="1" parent="1" source="nzYVKPdubFMFgoP4xcb2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nzYVKPdubFMFgoP4xcb2-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nzYVKPdubFMFgoP4xcb2-16" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write the test" vertex="1">
+        <mxCell id="nzYVKPdubFMFgoP4xcb2-16" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 1&lt;div&gt;Write the test&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3403" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -26,7 +26,7 @@
         <mxCell id="nzYVKPdubFMFgoP4xcb2-10" edge="1" parent="1" source="nzYVKPdubFMFgoP4xcb2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzYVKPdubFMFgoP4xcb2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nzYVKPdubFMFgoP4xcb2-17" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Push the test to server" vertex="1">
+        <mxCell id="nzYVKPdubFMFgoP4xcb2-17" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 2&lt;div&gt;Push the test to server&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0124" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -59,7 +59,7 @@
             <mxPoint x="250" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GTFygIC689mVNXZiy-f7-1" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="`CTP REST API`" vertex="1">
+        <mxCell id="GTFygIC689mVNXZiy-f7-1" connectable="0" parent="nzYVKPdubFMFgoP4xcb2-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 3&lt;div&gt;`CTP REST API`&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4275" as="geometry">
             <mxPoint x="33" as="offset" />
           </mxGeometry>
@@ -67,8 +67,8 @@
         <mxCell id="nzYVKPdubFMFgoP4xcb2-39" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Litmus" vertex="1">
           <mxGeometry height="80" width="80" x="135" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="B3oCOysvVunC3SfLI2KC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Create jobs&lt;/li&gt;&lt;li&gt;Execute jobs&lt;/li&gt;&lt;li&gt;Get job history via URL&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="90" width="130" x="160" y="280" as="geometry" />
+        <mxCell id="B3oCOysvVunC3SfLI2KC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Create jobs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Execute jobs&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="90" width="130" x="220" y="505" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -151,9 +151,6 @@
         </mxCell>
         <mxCell id="wL5DUTjARc6p35D9aiSc-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Litmus" vertex="1">
           <mxGeometry height="80" width="80" x="140" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="RIWTlj2PWDO9OEFyKdKS-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Benefits vs CTP&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1. No jobs&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;2. No job histories&lt;/div&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;3. Litmus managed job execution&lt;/div&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;4. SCM managed versioning&lt;/div&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="170" width="180" x="80" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
