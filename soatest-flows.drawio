@@ -79,14 +79,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sIvVQB_W23flX0Add9_1" name="CLI Workflow">
-    <mxGraphModel dx="816" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="550" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wL5DUTjARc6p35D9aiSc-1" edge="1" parent="1" source="wL5DUTjARc6p35D9aiSc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wL5DUTjARc6p35D9aiSc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wL5DUTjARc6p35D9aiSc-2" connectable="0" parent="wL5DUTjARc6p35D9aiSc-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Write the test" vertex="1">
+        <mxCell id="wL5DUTjARc6p35D9aiSc-2" connectable="0" parent="wL5DUTjARc6p35D9aiSc-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 1&lt;div&gt;Write the test&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3403" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
         <mxCell id="wL5DUTjARc6p35D9aiSc-6" edge="1" parent="1" source="wL5DUTjARc6p35D9aiSc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wL5DUTjARc6p35D9aiSc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wL5DUTjARc6p35D9aiSc-7" connectable="0" parent="wL5DUTjARc6p35D9aiSc-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Execute in automation&amp;nbsp;" vertex="1">
+        <mxCell id="wL5DUTjARc6p35D9aiSc-7" connectable="0" parent="wL5DUTjARc6p35D9aiSc-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 4&lt;div&gt;Execute in automation&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0819" as="geometry">
             <mxPoint x="-17" as="offset" />
           </mxGeometry>
@@ -138,7 +138,7 @@
             <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wL5DUTjARc6p35D9aiSc-10" connectable="0" parent="wL5DUTjARc6p35D9aiSc-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Push the test to SCM" vertex="1">
+        <mxCell id="wL5DUTjARc6p35D9aiSc-10" connectable="0" parent="wL5DUTjARc6p35D9aiSc-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Step 2&lt;div&gt;Push the test to SCM&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0124" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -149,9 +149,9 @@
         <mxCell id="wL5DUTjARc6p35D9aiSc-13" edge="1" parent="1" source="wL5DUTjARc6p35D9aiSc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wL5DUTjARc6p35D9aiSc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_onf3fo-98pJao5PUF1W-2" connectable="0" parent="wL5DUTjARc6p35D9aiSc-13" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" value="`soatestcli \&lt;div&gt;-config \&lt;/div&gt;&lt;div&gt;-data \&lt;/div&gt;&lt;div&gt;-resource \&lt;/div&gt;&lt;div&gt;-report`&lt;/div&gt;" vertex="1">
+        <mxCell id="_onf3fo-98pJao5PUF1W-2" connectable="0" parent="wL5DUTjARc6p35D9aiSc-13" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" value="Step 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;`soatestcli \&lt;div&gt;-config \&lt;/div&gt;&lt;div&gt;-data \&lt;/div&gt;&lt;div&gt;-resource \&lt;/div&gt;&lt;div&gt;-report`&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1648" y="-1" as="geometry">
-            <mxPoint x="-20" y="39" as="offset" />
+            <mxPoint x="-30" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wL5DUTjARc6p35D9aiSc-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Litmus" vertex="1">
